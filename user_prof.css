@@ -1,0 +1,118 @@
+body { 
+
+background: linear-gradient(90deg, rgba(102,126,234,1) 0%, rgba(118,75,162,1) 100%);}
+
+
+.ui_body {
+width: 724.978px;
+height: 244.68px;
+background-color: rgb(255, 255, 255);
+border-radius: 25px;
+margin: 20px;
+padding: 25px;
+box-sizing: border-box;}
+
+ .content {
+height: 189.95px;
+width: 270px;
+display: inline-block;
+ }
+
+.user_background {
+width: 215.019px;
+height: 189.95px;
+border-radius: 25px;
+background-color: #8589F9;
+padding-left: 8px;
+box-sizing: border-box;
+z-index: 2;
+position: relative;}
+
+.user_img {
+height: 210px;
+transform: rotate(29.644deg);}
+
+.deco1 {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 25px;
+left: 245px;}
+
+.deco2 {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 25px;
+left: 195px;}
+
+.deco3 {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 61px;
+left: 245px;}
+
+.deco4 {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 205px;
+left: 33px;}
+
+.deco5 {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 169px;
+left: 33px;}
+
+.deco6 {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 142px;
+left: 33px;}
+
+.close {
+transform: rotate(29.644deg);
+z-index: 1;
+position: absolute;
+top: 40px;
+left: 710px;  
+height: 20px;
+}
+
+.text_info {
+height: 189px;
+display: inline-block;
+position: absolute;
+padding-top: 10px;
+}
+.Michael {
+color: #86898C;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 19px;
+font-weight: bold;
+}
+.Slider{
+color: #8489F9;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 29.5px;
+font-weight: bold;
+}
+.Why{
+color: #86929D;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 15px;
+padding-top: 15px;
+}
+.Minutes {
+position: absolute;
+top: 160px;
+left: 296px;
+color: #86929D;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 14px;
+ font-weight: bold;
+}
